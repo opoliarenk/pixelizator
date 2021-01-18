@@ -12,7 +12,7 @@
             <img class="img" id="outputImg" src="">
         </div>
         <div id="buttons">
-            <input type="file" name="file" id="upload" accept="image/*" width="500" height="600" class="pix_butt" onchange="updateImageDisplay">
+            <input type="file" name="file" id="upload" accept="image/*" width="100" height="100" class="pix_butt" onchange="updateImageDisplay">
             <input type="number" id="pix_size" min="1" max="2147483647">
             <button class="pix_butt" id="pixelizate">Pixelizate</button>
         </div>

@@ -13,6 +13,6 @@
 }
 
 body {
-    /*background: rgb(2,0,36);*/
-    /*background: linear-gradient(156deg, rgba(255,163,0,1) 0%, rgba(121,9,9,1) 50%, rgba(2,0,36,1) 100%);*/
+    background: rgb(2,0,36);
+    background: linear-gradient(156deg, rgba(255,163,0,1) 0%, rgba(121,9,9,1) 50%, rgba(2,0,36,1) 100%);
 }
